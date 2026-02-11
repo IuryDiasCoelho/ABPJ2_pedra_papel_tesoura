@@ -23,17 +23,17 @@ máquina:
 ### Instalação
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/IuryDiasCoelho/ABPJ1_oraculo_matematico](https://github.com/IuryDiasCoelho/ABPJ1_oraculo_matematico)
+   git clone [https://github.com/IuryDiasCoelho/ABPJ2_pedra_papel_tesoura](https://github.com/IuryDiasCoelho/ABPJ2_pedra_papel_tesoura)
 
 2. Acesse a pasta do projeto:
 
    ```bash
-    cd nome-do-seu-repositorio
+    cd ABPJ2_pedra_papel_tesoura
    
 3. Execute o programa:
 
    ```bash
-    python main.py
+    python pedra_papel_tesoura.py
 
 ## 👩‍💻👨‍💻 Autores
 Informe:
