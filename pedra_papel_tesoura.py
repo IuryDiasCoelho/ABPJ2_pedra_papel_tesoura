@@ -23,8 +23,8 @@ while True:
         if entrada_usuario == maquina:
             print("Empate\n")
         elif (entrada_usuario == 'pedra' and maquina == 'papel') or \
-             (entrada_usuario == 'papel' and maquina == 'tesoura') or \
-             (entrada_usuario == 'tesoura' and maquina == 'pedra') or\
+            (entrada_usuario == 'papel' and maquina == 'tesoura') or \
+            (entrada_usuario == 'tesoura' and maquina == 'pedra') or\
             (entrada_usuario == 'largato' and maquina == 'pedra') or \
             (entrada_usuario == 'spock' and maquina == 'largato') or\
             (entrada_usuario == 'tesoura' and maquina == 'spock') or \

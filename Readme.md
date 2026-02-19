@@ -5,6 +5,18 @@
 ## 💻 Sobre
 Esse projeto tem como finalidade criar um jogo de pedra papel tesoura largato spock versao do Sheldon Cooper na série The Big Bang Theory usando logica computacional.
 
+### Regra do jogo
+- Pedra corta papel
+- Papel cobre pedra
+- Pedra esmaga lagarto
+- Lagarto envenena Spock
+- Spock esmaga tesoura
+- Tesoura decapita lagarto
+- Lagarto come papel
+- Papel refuta Spock
+- Spock vaporiza pedra
+- E como sempre foi, pedra amassa tesoura.
+
 ## ✨ Fluxograma
 ![Fluxograma.png](Fluxograma.png)
 
