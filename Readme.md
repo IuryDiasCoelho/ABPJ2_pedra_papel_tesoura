@@ -1,9 +1,9 @@
-# 🚀 Jogo pedra papel tesoura
+# 🚀 Jogo pedra papel tesoura largato Spock
 
 > Um projeto academico para aprofundamento em python
 
 ## 💻 Sobre
-Esse projeto tem como finalidade criar um jogo de pedra papel tesoura usando logica computacional.
+Esse projeto tem como finalidade criar um jogo de pedra papel tesoura largato spock versao do Sheldon Cooper na série The Big Bang Theory usando logica computacional.
 
 ## ✨ Fluxograma
 ![Fluxograma.png](Fluxograma.png)
